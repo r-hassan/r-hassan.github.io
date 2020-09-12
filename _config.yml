@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title: So Simple Theme
-locale: en_US
-description: A simple and clean responsive Jekyll theme for words and photos.
+title: রকিবুল হাসান | ডাটা নিয়ে কথা
+locale: bn_BD
+description: রকিবের সব কাজের একটা বুকমার্ক
 logo: site-logo.png
-url: https://mmistakes.github.io/so-simple-theme
+url: https://r-hassan.github.io/
 
 # Jekyll configuration
 
@@ -36,7 +36,7 @@ comments: true
 
 # Site owner
 owner:
-  name: Michael Rose
+  name: রকিবুল হাসান
   avatar: michael-rose-photo.jpg
   email: michael@mademistakes.com
   disqus-shortname: sosimpletheme
